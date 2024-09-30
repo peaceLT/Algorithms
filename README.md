@@ -1,2 +1,2 @@
-# Algorithms
+# Letcode
 刷题
